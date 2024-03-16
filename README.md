@@ -14,7 +14,7 @@
 <img src="images/details.png" width="200" ><img src="images/edit.png" width="200" >
 
 ## Setup & Installation
-* Clone the project into your machine from `https://github.com/johnkaizer/Changisha-App.git`
+* Clone the project into your machine from 
 * Run the project in the forked root folder- gradle run.
 ### Requirements
 
