@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_note_add_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/note_add_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_sign_out_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/sign_out_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_application.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_application.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_application.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_application.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_btn_back1.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/btn_back1.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_admin_approved_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/admin_approved_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_edit_back.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/edit_back.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_scholar4.jpg.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/scholar4.jpg"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_splash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_email_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/email_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_content_student_dash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/content_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_application_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/application_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_approved_item1.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/approved_item1.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_prof.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_prof.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_more_details.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/more_details.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_admin_profile.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_admin_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_app_bar_student_dash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/app_bar_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_application_shimer.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/application_shimer.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_btn_back_decline.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/btn_back_decline.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_login.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/menu_student_dash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/menu/student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_image_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/image_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_profile.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_twitter.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_application2.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_application2.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_person_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/person_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.angel1.app-pngs-53:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.angel1.app-main-60:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_white_box.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/white_box.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_gmail.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/gmail.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_btn_back.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/btn_back.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/menu_admin_menu.xml.flat",
+        "source": "com.example.angel1.app-main-60:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_register.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_app.jpg.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/app.jpg"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_sponsor_home.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_sponsor_home.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_help_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/help_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_visibility_off_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/visibility_off_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_approved_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/approved_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_home.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_background.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_instagram.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/instagram.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_icon.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.angel1.app-main-60:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_home_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/home_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_more_user_details.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_more_user_details.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_youtube.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/youtube.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_visibility_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/visibility_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_kenya1.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/kenya1.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_create_scholarship.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_create_scholarship.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_people_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/people_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.angel1.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_approval_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/approval_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_phone_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/phone_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_scholar0.jpg.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/scholar0.jpg"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_approved.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_approved.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_domain.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/domain.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_scholar6.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/scholar6.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_application_admin_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/application_admin_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_reset_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/reset_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_attach_file_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/attach_file_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/font_jomolhari.xml.flat",
+        "source": "com.example.angel1.app-main-60:/font/jomolhari.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/raw_successful.json.flat",
+        "source": "com.example.angel1.app-main-60:/raw/successful.json"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_round.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/round.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_scholarship_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/scholarship_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_shimmer_item.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/shimmer_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_help.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.angel1.app-main-60:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_edit_profile.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_scholarship_item_admin.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/scholarship_item_admin.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_facebook.png.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_student_dash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.angel1.app-main-60:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_activity_profile.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_nav_header_student_dash.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/nav_header_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_dialog_forgot.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/dialog_forgot.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_lock_24.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/lock_24.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/layout_fragment_documents.xml.flat",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_documents.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.angel1.app-main-60:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-merged_res-58:/drawable_btn_back_okay.xml.flat",
+        "source": "com.example.angel1.app-main-60:/drawable/btn_back_okay.xml"
+    }
+]

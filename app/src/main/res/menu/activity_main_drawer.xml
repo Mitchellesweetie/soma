@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_application"
+            android:icon="@drawable/note_add_24"
+            android:title="Application" />
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/attach_file_24"
+            android:title="Documents" />
+        <item
+            android:id="@+id/nav_approved"
+            android:icon="@drawable/approval_24"
+            android:title="Approved" />
+    </group>
+</menu>

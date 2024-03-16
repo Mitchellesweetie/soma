@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_application.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_application.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/shimmer_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/shimmer_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/content_student_dash.xml",
+        "source": "com.example.angel1.app-main-60:/layout/content_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_student_dash.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/more_details.xml",
+        "source": "com.example.angel1.app-main-60:/layout/more_details.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_more_user_details.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_more_user_details.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/approved_item1.xml",
+        "source": "com.example.angel1.app-main-60:/layout/approved_item1.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_profile.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_approved.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_approved.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/application_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/application_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/scholarship_item_admin.xml",
+        "source": "com.example.angel1.app-main-60:/layout/scholarship_item_admin.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/approved_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/approved_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_home.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/application_shimer.xml",
+        "source": "com.example.angel1.app-main-60:/layout/application_shimer.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/admin_approved_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/admin_approved_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_create_scholarship.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_create_scholarship.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_edit_profile.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_sponsor_home.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_sponsor_home.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/application_admin_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/application_admin_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_admin_profile.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_admin_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_register.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_prof.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_prof.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/activity_help.xml",
+        "source": "com.example.angel1.app-main-60:/layout/activity_help.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/scholarship_item.xml",
+        "source": "com.example.angel1.app-main-60:/layout/scholarship_item.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_application.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_application.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_application2.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_application2.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/app_bar_student_dash.xml",
+        "source": "com.example.angel1.app-main-60:/layout/app_bar_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/dialog_forgot.xml",
+        "source": "com.example.angel1.app-main-60:/layout/dialog_forgot.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/nav_header_student_dash.xml",
+        "source": "com.example.angel1.app-main-60:/layout/nav_header_student_dash.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_profile.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.angel1.app-mergeDebugResources-57:/layout/fragment_documents.xml",
+        "source": "com.example.angel1.app-main-60:/layout/fragment_documents.xml"
+    }
+]

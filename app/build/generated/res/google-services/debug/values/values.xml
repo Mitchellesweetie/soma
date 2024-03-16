@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">24840636694-4b3v7dhvv9n9nt93t7tl2gfetj9jr2vu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://soma-38bad-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">24840636694</string>
+    <string name="google_api_key" translatable="false">AIzaSyDmCVQEFK5H9lMMY-sxrlvTre0NBFG7Jd4</string>
+    <string name="google_app_id" translatable="false">1:24840636694:android:28454b5b5dc7291ea3a837</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmCVQEFK5H9lMMY-sxrlvTre0NBFG7Jd4</string>
+    <string name="google_storage_bucket" translatable="false">soma-38bad.appspot.com</string>
+    <string name="project_id" translatable="false">soma-38bad</string>
+</resources>
